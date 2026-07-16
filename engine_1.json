@@ -1,0 +1,15 @@
+{
+  "name": "ionic-runtime-4396",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 9786,
+    "createdAt": "2026-07-16T09:32:33.351Z"
+  }
+}
